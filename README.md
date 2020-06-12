@@ -9,4 +9,5 @@ A external driver board for the TMC (Trinamic) stepstick or bob driver. Features
    - Place for capacitors
    - Encoder plug (TMC5160)
 
+Picture of the "old" version
 ![](images/Ext.Driver-Board.jpg)
